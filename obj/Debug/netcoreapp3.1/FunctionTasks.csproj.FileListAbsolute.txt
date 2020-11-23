@@ -1,0 +1,13 @@
+C:\Users\goldl\source\repos\FunctionTasks\bin\Debug\netcoreapp3.1\FunctionTasks.exe
+C:\Users\goldl\source\repos\FunctionTasks\bin\Debug\netcoreapp3.1\FunctionTasks.deps.json
+C:\Users\goldl\source\repos\FunctionTasks\bin\Debug\netcoreapp3.1\FunctionTasks.runtimeconfig.json
+C:\Users\goldl\source\repos\FunctionTasks\bin\Debug\netcoreapp3.1\FunctionTasks.runtimeconfig.dev.json
+C:\Users\goldl\source\repos\FunctionTasks\bin\Debug\netcoreapp3.1\FunctionTasks.dll
+C:\Users\goldl\source\repos\FunctionTasks\bin\Debug\netcoreapp3.1\FunctionTasks.pdb
+C:\Users\goldl\source\repos\FunctionTasks\obj\Debug\netcoreapp3.1\FunctionTasks.csprojAssemblyReference.cache
+C:\Users\goldl\source\repos\FunctionTasks\obj\Debug\netcoreapp3.1\FunctionTasks.AssemblyInfoInputs.cache
+C:\Users\goldl\source\repos\FunctionTasks\obj\Debug\netcoreapp3.1\FunctionTasks.AssemblyInfo.cs
+C:\Users\goldl\source\repos\FunctionTasks\obj\Debug\netcoreapp3.1\FunctionTasks.csproj.CoreCompileInputs.cache
+C:\Users\goldl\source\repos\FunctionTasks\obj\Debug\netcoreapp3.1\FunctionTasks.dll
+C:\Users\goldl\source\repos\FunctionTasks\obj\Debug\netcoreapp3.1\FunctionTasks.pdb
+C:\Users\goldl\source\repos\FunctionTasks\obj\Debug\netcoreapp3.1\FunctionTasks.genruntimeconfig.cache
